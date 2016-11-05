@@ -33,6 +33,8 @@ public class LeapController {
 		LeapListener listener = new LeapListener();
 		Controller controller = new Controller();
 		controller.addListener(listener);
+
+		
 		
 		System.out.println("Press ENter to quit");
 		
