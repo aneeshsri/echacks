@@ -1,5 +1,3 @@
-# echacks
+# Green Fly
 
-We intend to user leap motion to create an application that
-enables the detection of users' hand gestures and synchronize
-it with action in game. 
+We used Leap Motion technology, Unity, and C# to create an application that enables the detection of users' hand gestures and synchronize them with an aircraft, moving in a 3D environment (a game).
